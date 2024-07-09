@@ -6,7 +6,7 @@ This project involves a comprehensive data analysis of the Maharashtra election 
 Overview
 The analysis aims to understand the electoral dynamics in Maharashtra by examining the following aspects:
 
-Party-wise vote shares
+#Party-wise vote shares
 Seat distribution across different zones
 Geographical representation of party holds using maps
 Key Components
@@ -23,10 +23,12 @@ Maps: Geographical maps were created to visually represent the party holds acros
 Graphs: Various graphs were plotted to showcase trends in vote shares and seat shares over the different elections.
 Tools and Technologies
 Python: The primary language used for data analysis and visualization.
+
 Libraries:
 pandas for data manipulation and analysis.
 matplotlib and seaborn for plotting graphs.
-geopandas and folium for creating interactive maps.
+geopandas for creating interactive maps.
+
 Insights and Findings
 The analysis provided several key insights into the electoral trends in Maharashtra:
 
