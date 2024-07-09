@@ -9,17 +9,23 @@ This project involves a comprehensive data analysis of the Maharashtra election 
 Seat distribution across different zones
 Geographical representation of party holds using maps
 Key Components
-### Data Collection: Election data was collected for the three specified elections, including details on constituency-level results.
+### Data Collection: 
+Election data was collected for the three specified elections, including details on constituency-level results.
 
 ### Data Analysis:
 
-## Zone-wise Analysis: The state was divided into various zones to analyze party holds and dominance in different regions.
-## Vote Share Analysis: The percentage of votes garnered by each party in different zones was calculated and compared across the three elections.
-## Seat Share Analysis: The number of seats won by each party in different zones was analyzed to understand shifts in political power.
+## Zone-wise Analysis: 
+The state was divided into various zones to analyze party holds and dominance in different regions.
+## Vote Share Analysis: 
+The percentage of votes garnered by each party in different zones was calculated and compared across the three elections.
+## Seat Share Analysis: 
+The number of seats won by each party in different zones was analyzed to understand shifts in political power.
 Visualization:
 
-### Maps: Geographical maps were created to visually represent the party holds across different zones in Maharashtra.
-### Graphs: Various graphs were plotted to showcase trends in vote shares and seat shares over the different elections.
+### Maps: 
+Geographical maps were created to visually represent the party holds across different zones in Maharashtra.
+### Graphs: 
+Various graphs were plotted to showcase trends in vote shares and seat shares over the different elections.
 ### Tools and Technologies
 Python: The primary language used for data analysis and visualization.
 
